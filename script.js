@@ -82,11 +82,10 @@ $(document).ready(function () {
     $("#uang").val("");
 
     registRegistant.displayList();
-
     registRegistant.updateStatistics();
   });
 
   registRegistant.displayList();
   registRegistant.updateStatistics();
-  
+
 });

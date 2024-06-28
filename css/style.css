@@ -7,7 +7,7 @@ body {
 
 nav .nav {
     margin: auto;
-    width: 100%;
+    width: 90%;
 }
 
 nav .nav-link[aria-selected="false"] {
