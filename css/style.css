@@ -7,7 +7,7 @@ body {
 
 nav .nav {
     margin: auto;
-    width: 90%;
+    width: 100%;
 }
 
 nav .nav-link[aria-selected="false"] {
@@ -19,16 +19,17 @@ nav .nav-link[aria-selected="true"] {
 }
 
 .btn-custom-color {
-    background-color: #74b664;
+    background-color: blue;
     color: white;
 }
 
 .btn-custom-color:hover {
-    background-color: #6fa861;
+    background-color: blue;
     color: white;
 }
 
 .nav-link:not(.active) {
     color: #74b664;
     font-style: bold;
+
 }
